@@ -1,6 +1,6 @@
 import java.util.Scanner;// importing the scanner for user input
 
-public class Main {
+public class CtoFconverter {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         double fTemp = 0;//variable for fahrenheit
